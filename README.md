@@ -4,13 +4,25 @@
          <title> Formative Assessment 3 </title>
       <style> 
         body {
-          background-color: cyan;
           background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8H4C_ReoC7hA7Gfv8T6sj0i6j0eSoZTlJAA&usqp=CAU");
           background-repeat: no-repeat;
           background-position: center;
           margin: 0px;
               }
         p{
+          text-align: justify;
+          font-style: italic;
+          padding: 20px;
+          border: 3px black border;
+          border-left: 3px dotted black;
+          border-top: 3px solid black;
+          border-right: 3px dashed black;
+          border-bottom: 3px doublle black;
+          width: 500px;
+          margin: 0 20px;
+          }
+          
+          
             
       </style>
     </head>
