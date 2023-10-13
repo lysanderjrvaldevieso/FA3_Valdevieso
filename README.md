@@ -20,7 +20,7 @@
           border-bottom: 3px double black;
           width: 500px;
           margin: 0 20px;
-          background-color:(130°, 90%, 50%);
+          background-color: lime;
           }
           h1{
           text-align: center;
@@ -35,7 +35,7 @@
           span {
           font-weight: bold;
           font-style: italic;
-          color: 242, 208, 13;
+          color: (242, 208, 13);
           margin: 2px 5px;
           }
           </style>
