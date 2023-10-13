@@ -5,9 +5,6 @@
       <style> 
         body {
           background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8H4C_ReoC7hA7Gfv8T6sj0i6j0eSoZTlJAA&usqp=CAU");
-          width: 150%;
-          height: 90px;
-          background-postion: contain;
           background-position: center;
           background-repeat: no-repeat;
           margin: 0px;
@@ -28,6 +25,7 @@
           }
           h1{
           text-align: center;
+          font-family: 'Courier New', monospace;
           background-color: lime;
           
           } 
