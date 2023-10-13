@@ -5,8 +5,11 @@
       <style> 
         body {
           background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/002/224/606/005.png");
-          background-repeat: no-repeat;
+          width: 150px;
+          height: 90px;
+          background-postion: contain;
           background-position: center;
+          background-repeat: no-repeat;
           margin: 0px;
           background-color: cyan;
           }
