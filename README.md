@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
          <title> Formative Assessment 3 </title>
