@@ -5,7 +5,7 @@
       <style> 
         body {
           background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/002/224/606/005.png");
-          width: 150px;
+          width: 150%;
           height: 90px;
           background-postion: contain;
           background-position: center;
@@ -21,13 +21,14 @@
           border-left: 3px dotted black;
           border-top: 3px solid black;
           border-right: 3px dashed black;
-          border-bottom: 3px doublle black;
+          border-bottom: 3px double black;
           width: 500px;
           margin: 0 20px;
           background-color: lime;
           }
           h1{
-              
+          text-align: center;
+          duwiwn
           } 
           </style>
     </head>
