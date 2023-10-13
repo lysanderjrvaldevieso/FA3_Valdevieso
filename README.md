@@ -27,7 +27,11 @@
           text-align: center;
           font-family: 'Courier New', monospace;
           background-color: lime;
-          
+          border: 2px dotted #401596;
+          padding: 10px 15px;
+          width: 250px;
+          margin: 30xp 20px 20px 20px;
+          auto-margin: 0;
           } 
           </style>
     </head>
