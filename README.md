@@ -7,10 +7,11 @@
           background-color: cyan;
           background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8H4C_ReoC7hA7Gfv8T6sj0i6j0eSoZTlJAA&usqp=CAU");
           background-repeat: no-repeat;
-          background-size: cover;
+          background-position: center;
           margin: 0px;
-          
-            }
+              }
+        p{
+            
       </style>
     </head>
     <body>
