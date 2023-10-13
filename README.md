@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <html>
     <head>
         <title> FA3_Valdevieso </title>
