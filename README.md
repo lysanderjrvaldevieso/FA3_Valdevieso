@@ -4,11 +4,12 @@
          <title> Formative Assessment 3 </title>
       <style> 
         body {
-          background-image: url("[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8H4C_ReoC7hA7Gfv8T6sj0i6j0eSoZTlJAA&usqp=CAU](https://1.bp.blogspot.com/-KgVoAl8nfUg/X1D5H6zmA7I/AAAAAAAAB-4/n4u4qHh4kN0a8GToVjveE2gM9oLjR4pVACPcBGAYYCw/w919/lofi-girl-studying-hip-hop-radio-headphone-uhdpaper.com-4K-7.2708-wp.thumbnail.jpg)");
+          background-image: url("https://i.pinimg.com/1200x/5e/3f/87/5e3f870939d545487bb4f3a28f32c076.jpg");
           background-repeat: no-repeat;
           background-position: center;
           margin: 0px;
           background-color: cyan;
+          background-size: cover;
              }
         p{
           text-align: justify;
