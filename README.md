@@ -36,7 +36,7 @@
           span {
           font-weight: bold;
           font-style: italic;
-          color: (242, 208, 13);
+          color: ("85, 122, 217");
           margin: 2px 5px;
           }
           </style>
