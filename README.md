@@ -4,7 +4,7 @@
          <title> Formative Assessment 3 </title>
       <style> 
         body {
-          background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/002/224/606/005.png");
+          background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8H4C_ReoC7hA7Gfv8T6sj0i6j0eSoZTlJAA&usqp=CAU");
           width: 150%;
           height: 90px;
           background-postion: contain;
@@ -28,7 +28,8 @@
           }
           h1{
           text-align: center;
-          duwiwn
+          background-color: lime;
+          
           } 
           </style>
     </head>
