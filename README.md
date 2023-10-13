@@ -25,7 +25,7 @@
           h1{
           text-align: center;
           font-family: 'Courier New', monospace;
-          background-color: #6c0df2;
+          background-color: #c3a2f2;
           border: 2px dotted blue;
           padding: 10px 15px;
           width: 250px;
