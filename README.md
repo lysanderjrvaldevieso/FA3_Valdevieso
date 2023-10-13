@@ -1,8 +1,7 @@
 
 <html>
     <head>
-         <title> Formative Assessment 3 </title>
-      <style> 
+         <style> 
         body {
           background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8H4C_ReoC7hA7Gfv8T6sj0i6j0eSoZTlJAA&usqp=CAU");
           background-position: center;
@@ -21,18 +20,24 @@
           border-bottom: 3px double black;
           width: 500px;
           margin: 0 20px;
-          background-color: (120,100%,50%;
+          background-color: lime;
           }
           h1{
           text-align: center;
           font-family: 'Courier New', monospace;
           background-color: lime;
-          border: 2px dotted #401596;
+          border: 2px dotted blue;
           padding: 10px 15px;
           width: 250px;
           margin: 30xp 20px 20px 20px;
           auto-margin: 0;
           } 
+          span {
+          font-weight: bold;
+          font-style: italic;
+          color: #ff69b4;
+          margin: 2px 5px;
+          }
           </style>
     </head>
     <body>
