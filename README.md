@@ -20,12 +20,12 @@
           border-bottom: 3px double black;
           width: 500px;
           margin: 0 20px;
-          background-color: lime;
+          background-color:(130°, 90%, 50%);
           }
           h1{
           text-align: center;
           font-family: 'Courier New', monospace;
-          background-color: lime;
+          background-color: #6c0df2;
           border: 2px dotted blue;
           padding: 10px 15px;
           width: 250px;
@@ -35,7 +35,7 @@
           span {
           font-weight: bold;
           font-style: italic;
-          color: #ff69b4;
+          color: 242, 208, 13;
           margin: 2px 5px;
           }
           </style>
