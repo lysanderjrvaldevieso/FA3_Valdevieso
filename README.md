@@ -4,14 +4,12 @@
          <title> Formative Assessment 3 </title>
       <style> 
         body {
-          background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZV0MQ6wllQFfZ7Uba53PIFj13G-PX0M14Iw&usqp=CAU");
-          background-size: cover;
+          background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/002/224/606/005.png");
           background-repeat: no-repeat;
           background-position: center;
           margin: 0px;
           background-color: cyan;
-          
-             }
+          }
         p{
           text-align: justify;
           font-style: italic;
@@ -24,13 +22,11 @@
           width: 500px;
           margin: 0 20px;
           background-color: lime;
-          
-        
           }
-          
-          
-            
-      </style>
+          h1{
+              
+          } 
+          </style>
     </head>
     <body>
         <h1> Office Productivity </h1>
