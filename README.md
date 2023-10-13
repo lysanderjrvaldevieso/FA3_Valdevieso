@@ -8,7 +8,8 @@
           background-repeat: no-repeat;
           background-position: center;
           margin: 0px;
-              }
+          background-color: cyan;
+             }
         p{
           text-align: justify;
           font-style: italic;
