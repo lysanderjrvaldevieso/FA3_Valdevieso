@@ -28,7 +28,7 @@
           border: 2px dotted blue;
           padding: 10px 15px;
           width: 250px;
-          margin: 30xp 20px 20px 20px;
+          margin: 30px 20px 20px 20px;
           auto-margin: 0;
           } 
           span {
